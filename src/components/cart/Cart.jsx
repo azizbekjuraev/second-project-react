@@ -6,11 +6,11 @@ function Cart() {
     <div className="cart">
       <div className="container-1">
         <div className="black-bg-div">
-          <img src="./img/Rectangle 90.png" alt="" />
+          <img src="./img/photo_2022-12-21 11.45.27.jpeg" />
           <div className="texts">
-            <h1>Laura Smith</h1>
+            <h1>AZIZBEK JURAEV</h1>
             <p className="p-yellow">Frontend Developer</p>
-            <p>laurasmith.website</p>
+            <p>azizbekjuraev.website</p>
           </div>
           <div className="btns">
             <img src="./img/Button-1.png" alt="" />

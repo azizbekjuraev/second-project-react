@@ -1,10 +1,8 @@
 import React from "react";
-import Info from "./components/Info";
-import About from "./components/About";
-import Interests from "./components/Interests";
-import Footer from "./components/Footer";
 import Cart from "./components/cart/Cart";
 import Cart2 from "./components/cart/Cart2";
+
+// Had some silly mistakes in this project
 
 function App() {
   return (
